@@ -2,7 +2,7 @@
 
 # I'm Vikraman Kumar
 
-theme: minima
+# theme: minima
 
 A Multi Disciplined Manager of Technical Support Teams providing WOW level Service to our Clients and Users with my rich 13+ years industry experience and accumulated learnings.
 
